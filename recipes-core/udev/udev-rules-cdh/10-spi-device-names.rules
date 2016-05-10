@@ -1,0 +1,2 @@
+KERNEL=="spidev32765.0", SYMLINK="spi.COM-SBAND"
+KERNEL=="spidev32765.1", SYMLINK="spi.COM-UHF"
